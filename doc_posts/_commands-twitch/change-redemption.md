@@ -1,5 +1,5 @@
 ---
-title: "Change Redemption Status "
+title: "Update Redemption Status "
 num: 14
 ---
 
